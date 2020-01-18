@@ -8,9 +8,9 @@ int main() {
   // for some better random numbers (and not always the same)
   srand(time(NULL));
 
-  init_curses()
+  init_curses();
 
-  main_menu()
+  main_menu();
 
   end_curses();
 
