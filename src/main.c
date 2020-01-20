@@ -10,7 +10,7 @@ int main() {
 
   init_curses();
 
-  main_menu();
+  main_menu()
 
   end_curses();
 
